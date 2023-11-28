@@ -1,19 +1,40 @@
 body{
-    background: linear-gradient(rgb(176, 176, 255),rgb(255, 210, 255),white);
+    background: linear-gradient(rgb(176, 176, 255),rgb(176, 176, 255),white);
     margin-left: 400px;
+    
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
+    text-align: center;
 }
 img{
-    margin-left: 140px;
+    margin-right: 20rem;
     width: 550px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    
 }
 h2{
-    margin-left: 280px;
+    
+    font-style: oblique;
+    color: aliceblue;
 }
 h1{
+    color: aliceblue    ;
     align-items: center;
-    margin-left: 30px;
+    
+    font-style: oblique;
 }
 p{
-    margin-left: 10px;
+    
+    font-style: oblique;
+    text-align: center;     
+}
+
+h1, h2, p {
+    margin-right: 20rem;
 }
