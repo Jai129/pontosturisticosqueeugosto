@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(rgb(176, 176, 255),rgb(255, 210, 255),white);
+    margin-left: 400px;
+    align-items: center;
+}
+img{
+    margin-left: 140px;
+    width: 550px;
+}
+h2{
+    margin-left: 280px;
+}
+h1{
+    align-items: center;
+    margin-left: 30px;
+}
+p{
+    margin-left: 10px;
+}
